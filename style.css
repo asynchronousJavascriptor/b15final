@@ -67,8 +67,8 @@ body{
 }
 
 #fullnav h1{
-    font-size: 16vw;
-    line-height: 16vw;
+    font-size: 5vw;
+    line-height: 5vw;
 }
 
 #txtvid{
@@ -99,7 +99,7 @@ body{
 }
 
 #linksa{
-    margin-top: 10vh;
+    margin-top: 6vh;
 }
 
 #linksa a{
@@ -107,7 +107,7 @@ body{
     text-decoration: none;
     display: block;
     margin-top: 10px;
-    font-size: 10vw;
+    font-size: 3vw;
 }
 
 #linksa a:nth-child(2n){
@@ -527,4 +527,13 @@ h1 #video{
     #footer p{
         width: 80%;
     }
+
+    #fullnav h1{
+        font-size: 16vw;
+        line-height: 16vw;
+    }
+
+    #fullnav a{
+        font-size: 10vw;
+    } 
 }
